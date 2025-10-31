@@ -1,9 +1,14 @@
 ### 👋 Hey there, I'm Amanuel!
-💼 I’m currently working on freelance projects on **Fiverr** and **Upwork**.  
+💼 I’m currently working on freelance projects on **Fiverr** and **Upwork**.
+
 🤝 I’m looking to collaborate with awesome clients on creative web projects.  
-🧠 I’m looking for help from my amazing team to grow our next big idea.  
-🎓 I’m currently studying at **MK University**, learning more about modern web development.  
+
+🧠 I’m looking for help from my amazing team to grow our next big idea.
+
+🎓 I’m currently studying at **MK University**, learning more about modern web development. 
+
 💬 Ask me about **React**, **Vue**, **Three.js**, **GSAP animations**, **UI/UX design**, **API integration**, or **how to build a cool 3D website**!  
+
 😄 Fun fact: I can code for hours as long as there’s good coffee ☕  
 
 ---
