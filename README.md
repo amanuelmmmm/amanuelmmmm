@@ -1,7 +1,12 @@
-# 💫 About Me:
-### 👋 Hey there, I'm Amanuel!<br><br>💼 I’m currently working on freelance projects on **Fiverr** and **Upwork**.  <br>🤝 I’m looking to collaborate with awesome clients on creative web projects.  <br>🧠 I’m looking for help from my amazing team to grow our next big idea.  <br>🎓 I’m currently studying at **MK University**, learning more about modern web development.  <br>💬 Ask me about **React**, **Vue**, **Three.js**, **GSAP animations**, **UI/UX design**, or **how to build a cool 3D website**!  <br>😄 Fun fact: I can code for hours as long as there’s good coffee ☕  <br>
+### 👋 Hey there, I'm Amanuel!
+💼 I’m currently working on freelance projects on **Fiverr** and **Upwork**.  
+🤝 I’m looking to collaborate with awesome clients on creative web projects.  
+🧠 I’m looking for help from my amazing team to grow our next big idea.  
+🎓 I’m currently studying at **MK University**, learning more about modern web development.  
+💬 Ask me about **React**, **Vue**, **Three.js**, **GSAP animations**, **UI/UX design**, **API integration**, or **how to build a cool 3D website**!  
+😄 Fun fact: I can code for hours as long as there’s good coffee ☕  
 
-
+---
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanuelmelkamu340@gmail.com) 
 
